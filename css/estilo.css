@@ -137,6 +137,9 @@ section {
     flex-direction: row;
     justify-content: center;
     position: relative;
+    margin-right: auto;
+    margin-left: auto;
+    align-items: center;
 }
 
 .png {
@@ -185,7 +188,7 @@ section {
 }
 
 
-.centrado {
+.plot2 {
     color: white;
     font-family: 'Poppins', sans-serif;
     width: 60%;
