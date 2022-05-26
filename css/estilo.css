@@ -6,14 +6,6 @@ body {
     background-color: #F5E1CE;
 }
 
-/*.listamenu {
-    display: inline-block;
-    margin: 0 5px; 
-    width: 50px;
-    height: 35 px;
-    text-align: center;
-    
-} */
 
 a {
     text-decoration: none;
@@ -54,6 +46,10 @@ nav ul li {
     
 }
 
+.portada img {
+    justify-content: center;
+    margin-bottom: 3%;
+}
 
 .portada2 {
     background-image: url("../optimizado/lucyjulien.opt.jpg"); 
@@ -227,7 +223,7 @@ section {
     width: 50%;
 }*/
 
- .enlinea {
+.enlinea {
     margin-top: 5%;
     display: flex;
     flex-wrap: wrap;
