@@ -140,6 +140,8 @@ section {
 
 .png {
     justify-content: center;
+    position: absolute;
+    z-index: 1;
 }
 
 .plot {
@@ -157,6 +159,8 @@ section {
     vertical-align: top;
     text-align: right;
     margin-bottom: 4%;
+    position: absolute;
+    z-index: -1;
 } 
 
 .contenedor2 {
