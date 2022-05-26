@@ -20,7 +20,7 @@ a {
 
 .navbar {
     padding: .5rem 1rem;
-    /*background-color: #A60D66;*/
+    background-color: #A60D66;
     text-align: center;
     font-family: 'Martel', serif;
     text-transform: uppercase;
@@ -141,9 +141,6 @@ section {
 
 .png {
     justify-content: center;
-    position: absolute;
-    z-index: 1;
-    margin-top: 12px;
 }
 
 .plot {
@@ -161,8 +158,6 @@ section {
     vertical-align: top;
     text-align: right;
     margin-bottom: 4%;
-    position: absolute;
-    z-index: -1;
 } 
 
 .contenedor2 {
