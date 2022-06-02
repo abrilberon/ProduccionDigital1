@@ -266,7 +266,7 @@ footer {
     height: 250px;
     background-color: white; 
     text-align: center;
-    padding: none;
+    padding-inline-start: 0%;
 }
 
 footer ul a img {
