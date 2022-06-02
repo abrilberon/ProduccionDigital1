@@ -266,7 +266,6 @@ footer {
     height: 250px;
     background-color: white; 
     text-align: center;
-    padding-inline-start: 0%;
 }
 
 footer ul a img {
@@ -288,7 +287,16 @@ footer a:hover {
     color:black;
 }
 
+footer ul {
+        display: block;
+        list-style-type: disc;
+        margin-block-start: 1em;
+        margin-block-end: 1em;
+        margin-inline-start: 0px;
+        margin-inline-end: 0px;
+        /*padding-inline-start: 40px;*/
 
+}
 .creditos {
     color: #A60D66;
     font-family: 'Poppins', sans-serif;
