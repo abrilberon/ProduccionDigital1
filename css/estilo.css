@@ -243,6 +243,7 @@ h3 {
     width: 50%;
     font-size: 18px;
     margin-top: 1px;
+    align-items: inherit;
 }
 
 h4 {
