@@ -269,11 +269,11 @@ footer {
     
 }
 
-footer ul a img {
+footer a img {
     max-width: 2rem;
     width: 100%;
     height: auto;
-   /* margin-right: 7px;*/
+    margin-right: 7px;
 }
 
 footer nav ul li a {
