@@ -273,13 +273,13 @@ footer ul a img {
     max-width: 2rem;
     width: 100%;
     height: auto;
-    margin-right: 7px;
+   /* margin-right: 7px;*/
 }
 
 footer nav ul li a {
     color: #A60D66;
     font-size: 1.1rem;
-    /*padding-right: 1rem;*/
+    padding-right: 1rem;
     
 }
 
