@@ -242,7 +242,7 @@ h3 {
     text-align: center;
     width: 50%;
     font-size: 18px;
-    align-items: center;
+    margin-top: 1px;
 }
 
 h4 {
@@ -250,6 +250,7 @@ h4 {
     text-align: center;
     width: 50%;
     font-size: 14px;
+    margin-top: 1px;
 }
 
 footer {
