@@ -342,11 +342,12 @@ footer a:hover {
 .contenedor5 {
     margin-top: 5%;
     display: flex;
-    flex-wrap: wrap;
+    text-align: center;
+    /*flex-wrap: wrap;
     margin-right: auto;
     margin-left: auto;
     align-items: center;
-    justify-content: center;
+    justify-content: center;*/
 }
 
 .contenedor5 div {
@@ -355,7 +356,7 @@ footer a:hover {
 }
 
 .contenedor5 div img {
-    width: 50%;
+    width: 100%;
     margin-bottom: 2em;
 
 }
