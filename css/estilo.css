@@ -279,7 +279,7 @@ footer ul a img {
 footer nav ul li a {
     color: #A60D66;
     font-size: 1.1rem;
-    padding-right: 1rem;
+    /*padding-right: 1rem;*/
     
 }
 
@@ -343,11 +343,7 @@ footer a:hover {
     margin-top: 5%;
     display: flex;
     text-align: center;
-    /*flex-wrap: wrap;
-    margin-right: auto;
-    margin-left: auto;
-    align-items: center;
-    justify-content: center;*/
+  
 }
 
 .contenedor5 div {
