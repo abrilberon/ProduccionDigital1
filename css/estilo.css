@@ -337,7 +337,6 @@ footer a:hover {
     margin-top: 5%;
     display: flex;
     text-align: center;
-    justify-content: center;
 }
 
 .contenedor5 div {
@@ -351,6 +350,12 @@ footer a:hover {
 
 }
 
+.forms {
+    margin: .4em 0;
+  }
+
 label {
     font-family: 'Poppins', sans-serif;
+    width: 25%;
+    float: left;
 }
