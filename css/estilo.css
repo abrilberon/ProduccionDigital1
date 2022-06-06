@@ -352,6 +352,6 @@ footer a:hover {
 
 label {
     font-family: 'Poppins', sans-serif;
-    width: 25%;
-    float: left;
+    /*width: 25%;
+    float: left;*/
 }
