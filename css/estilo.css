@@ -377,6 +377,9 @@ label {
     .enlinea {
         display: block;
         margin-top: 1%;
+        justify-content: center;
+        text-align: center;
+        margin-top: 1em;
     }
     
     .enlinea div {
