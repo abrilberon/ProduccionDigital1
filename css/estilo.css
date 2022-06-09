@@ -130,7 +130,7 @@ section {
     display: flex;
     flex-direction: row;
     justify-content: center;
-    position: relative;
+    margin-top: 30px;
    
 }
 
@@ -138,7 +138,7 @@ section {
     justify-content: center;
     position: absolute;
     left: -100px;
-    top: -63px;
+    top: -78px;
 }
 
 .plot {
@@ -243,7 +243,6 @@ section {
 h3 {
     font-family: 'Poppins', sans-serif;
     text-align: center;
-    width: 50%;
     font-size: 18px;
     margin-top: 1px;
     align-items: center;
@@ -252,7 +251,6 @@ h3 {
 h4 {
     font-family: 'Poppins', sans-serif;
     text-align: center;
-    width: 50%;
     font-size: 14px;
     margin-top: 1px;
 }
