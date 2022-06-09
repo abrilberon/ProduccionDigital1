@@ -384,8 +384,7 @@ label {
     }
        
     .enlinea div a img {
-        width: 100%;
-        /*margin-bottom: 2rem;*/
+        margin-bottom: 1em;
     }
 }
     
