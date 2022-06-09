@@ -136,6 +136,9 @@ section {
 
 .png {
     justify-content: center;
+    position: absolute;
+    left: -63px;
+    top: -63px;
 }
 
 .plot {
