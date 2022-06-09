@@ -137,7 +137,7 @@ section {
 .png {
     justify-content: center;
     position: absolute;
-    left: -63px;
+    left: -100px;
     top: -63px;
 }
 
@@ -147,13 +147,13 @@ section {
     font-family: 'Poppins', sans-serif;
     text-align: center;
     display: inline-block;
-    width: 50%;
+    width: 30%;
     
     margin-top: 4%;
     margin-right: 4%;
     margin-bottom: 4%;
     margin-left: 0%;
-    
+    text-align: justify;
 }
 
 .item {
@@ -161,6 +161,7 @@ section {
     vertical-align: top;
     text-align: right;
     margin-bottom: 4%;
+    position: relative;
 } 
 
 .contenedor2 {
