@@ -362,3 +362,9 @@ label {
 .icon {
     display: none;
 }
+
+@media screen and (max-width: 480px) {
+    nav ul { display: none; }
+    .icon { display: block;  }
+    }
+    
