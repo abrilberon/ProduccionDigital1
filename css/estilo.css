@@ -366,5 +366,9 @@ label {
 @media screen and (max-width: 480px) {
     nav ul { display: none; }
     .icon { display: block;  }
+    section {
+        max-width: 480px;
+        width: 90%;
+    }
     }
     
