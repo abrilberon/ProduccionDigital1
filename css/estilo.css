@@ -386,5 +386,21 @@ label {
     .enlinea div a img {
         margin-bottom: 1em;
     }
+    footer {
+        height: 80px;
+    }
+    
+    footer ul a img {
+        max-width: 1.5rem;
+        width: 100%;
+        height: auto;
+        margin-right: 7px;
+    }
+    footer nav ul li a {
+        color: #A60D66;
+        font-size: 1.1rem;
+        padding-right: 1rem;
+        
+    }
 }
     
