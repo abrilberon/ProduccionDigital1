@@ -358,3 +358,7 @@ label {
     /*width: 25%;
     float: left;*/
 }
+
+.icon {
+    display: none;
+}
