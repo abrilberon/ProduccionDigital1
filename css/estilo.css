@@ -11,13 +11,6 @@ a {
     text-decoration: none;
 }
 
-/*.foto {
-    width: 1300px;
-    text-align: center;
-     
-}*/
-
-
 .navbar {
     padding: .5rem 1rem;
     background-color: #A60D66;
@@ -152,7 +145,7 @@ section {
     text-align: center;
     display: inline-block;
     width: 50%;
-    /*margin: 4%;*/
+    
     margin-top: 4%;
     margin-right: 4%;
     margin-bottom: 4%;
