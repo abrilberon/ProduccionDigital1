@@ -373,5 +373,26 @@ label {
     .portada {
         height: 250px;   
     }
+
+    .enlinea {
+        margin-top: 5%;
+        display: block;
+        margin-right: auto;
+        margin-left: auto;
+        align-items: center;
+        justify-content: center;
+    }
+    
+    .enlinea div {
+        width: 25%;
+        padding: 2%;
+        text-align: center;
+        margin-bottom: 2rem;
+    }
+       
+    .enlinea div a img {
+        width: 100%;
+        /*margin-bottom: 2rem;*/
+    }
 }
     
