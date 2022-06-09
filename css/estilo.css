@@ -375,17 +375,12 @@ label {
     }
 
     .enlinea {
-        margin-top: 5%;
         display: block;
-        margin-right: auto;
-        margin-left: auto;
+        margin-top: 1%;
     }
     
     .enlinea div {
-        width: 25%;
-        padding: 2%;
-        text-align: center;
-        margin-bottom: 2rem;
+        width: 100%;
     }
        
     .enlinea div a img {
