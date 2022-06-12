@@ -374,7 +374,7 @@ label {
         height: 250px;   
     }
 
-    .portada .portada2 .portada3 .portada4 .portada5 img {
+    .portada.portada2.portada3.portada4.portada5 img {
         max-width: 300px;
     }
 
@@ -421,6 +421,7 @@ label {
     .galeria div a img {
     max-width: 35%;
     }
+
     footer {
         height: 150px;
         align-items: none;
