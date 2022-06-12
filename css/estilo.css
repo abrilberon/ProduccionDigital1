@@ -197,10 +197,8 @@ section {
 
 .button {
     background-color: #A60D66;
-    border: 0.5px solid black; 
     color: white;
     padding: 15px 32px;
-    /*text-align: center;*/
     text-decoration: none;
     display: inline-block;
     font-family: 'Poppins', sans-serif;
@@ -434,6 +432,38 @@ label {
     
     
     
+    .contenedor2 {
+        width: 100%;
+        height: 500px;
+        margin-right: auto;
+        margin-left: auto;
+        align-items: center;
+        justify-content: center;
+        background-image: url("../optimizado/torre-eiffel2.opt.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    
+    .contenedor2 div {
+        padding: 2%;
+    }
+    
+    .contenedor2 img {
+        margin-bottom: 0px;
+    
+    }
+
+    .plot2 {
+        width: 60%;
+        font-size: 17px;
+        text-align: justify;
+    }
+    
+    .button {
+        padding: 12px 20px;
+    }
+
+
 
 
     .enlinea {
