@@ -387,9 +387,22 @@ label {
     }
 
 
-    .portada.portada2.portada3.portada4.portada5 img {
+    .portada img {
         max-width: 300px;
     }
+    .portada2 img {
+        max-width: 300px;
+    }
+    .portada3 img {
+        max-width: 300px;
+    }
+    .portada4 img {
+        max-width: 300px;
+    }
+    .portada5 img {
+        max-width: 300px;
+    }
+
 
     .contenedor {
             display: flex;
