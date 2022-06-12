@@ -394,20 +394,22 @@ label {
 
     .contenedor3 {
         
-        height: 240px;
+        height: 340px;
     }
     
     .contenedor4 {
         
         
-        height: 240px;
+        height: 2340px;
         margin-top: 1%;
     }
 
     .contenedor3 div img {
         max-width: 50%;
     }
-    
+    .contenedor4 div img {
+        max-width: 50%;
+    }
 
 
 
