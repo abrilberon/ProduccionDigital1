@@ -392,8 +392,11 @@ label {
         max-width: 1rem;
     }
 
+    .portada img {
+    max-width: 300px;
+    }
+
     .contenedor3 {
-        
         height: 340px;
     }
     
@@ -412,13 +415,13 @@ label {
 
     footer {
         height: 150px;
-      
+        align-items: none;
     }
     
     footer ul a img {
         max-width: 1rem;
         margin-right: 2%;
-        align-items: none;
+       
     }
     footer nav ul li a {
         font-size: 0.2rem;
