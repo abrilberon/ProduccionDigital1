@@ -473,24 +473,26 @@ label {
        
     .enlinea div a img {
         margin-bottom: 1em;
-        max-width: 20rem;
+        max-width: 15rem;
     }
 
  
     .contenedor3 {
-        height: 340px;
+        height: 300px;
     }
     
     .contenedor4 {
-        height: 340px;
+        height: 300px;
         margin-top: 2%;
     }
 
     .contenedor3 div img {
         max-width: 300px;
+        height: 60px;
     }
     .contenedor4 div img {
         max-width: 300px;
+
     }
 
     .galeria div a img {
