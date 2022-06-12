@@ -400,7 +400,6 @@ label {
     .contenedor4 {
         height: 340px;
         margin-top: 2%;
-        margin-bottom: none;
     }
 
     .contenedor3 div img {
@@ -409,16 +408,6 @@ label {
     .contenedor4 div img {
         max-width: 300px;
     }
-
-
-
-
-
-
-
-
-
-
 
 
     footer {
@@ -434,6 +423,10 @@ label {
         font-size: 0.2rem;
         padding-right: 1rem;
         
+    }
+    p {
+        margin-block-start: none;
+    margin-block-end: none;
     }
 }
 
