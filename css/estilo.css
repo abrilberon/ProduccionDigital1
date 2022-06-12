@@ -394,7 +394,6 @@ label {
 
     footer {
         height: 150px;
-        margin-bottom: none;
     }
     
     footer ul a img {
@@ -408,17 +407,5 @@ label {
     }
 }
 
-/*footer ul a img {
-    max-width: 2rem;
-    width: 100%;
-    height: auto;
-    margin-right: 7px;
-}
 
-footer nav ul li a {
-    color: #A60D66;
-    font-size: 1.1rem;
-    padding-right: 1rem;
-    
-}*/
     
