@@ -395,7 +395,10 @@ label {
     .portada img {
     max-width: 300px;
     }
-
+    .contenedor {
+        display: flex;
+        flex-direction: column; 
+    }
     .contenedor3 {
         height: 340px;
     }
