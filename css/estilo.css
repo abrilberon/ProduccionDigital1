@@ -370,8 +370,17 @@ label {
         max-width: 480px;
         width: 100%;
     }
-    .portada {
+    .portada .portada2 .portada3 .portada4 .portada5 {
         height: 250px;   
+    }
+
+    .portada .portada2 .portada3 .portada4 .portada5 img {
+        max-width: 300px;
+    }
+
+    .contenedor {
+            display: flex;
+            flex-direction: column; 
     }
 
     .enlinea {
@@ -392,13 +401,7 @@ label {
         max-width: 1rem;
     }
 
-    .portada img {
-    max-width: 300px;
-    }
-    .contenedor {
-        display: flex;
-        flex-direction: column; 
-    }
+ 
     .contenedor3 {
         height: 340px;
     }
