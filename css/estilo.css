@@ -398,10 +398,9 @@ label {
     }
     
     .contenedor4 {
-        
-        
         height: 340px;
         margin-top: 2%;
+        margin-bottom: none;
     }
 
     .contenedor3 div img {
