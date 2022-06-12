@@ -384,11 +384,14 @@ label {
     
     .enlinea div {
         width: 100%;
+        justify-content: center;
     }
        
     .enlinea div a img {
+        width: 50%;
         margin-bottom: 1em;
     }
+
     footer {
         height: 80px;
     }
