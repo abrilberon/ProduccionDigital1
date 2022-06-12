@@ -418,7 +418,9 @@ label {
         max-width: 300px;
     }
 
-
+    .galeria div a img {
+    max-width: 35%;
+    }
     footer {
         height: 150px;
         align-items: none;
