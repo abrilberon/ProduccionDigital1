@@ -425,8 +425,7 @@ label {
         
     }
     p {
-        margin-block-start: none;
-    margin-block-end: none;
+      margin: 0%;
     }
 }
 
