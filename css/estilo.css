@@ -393,13 +393,13 @@ label {
     }
 
     .contenedor3 {
-        width: 100%;
+        
         height: 150px;
     }
     
     .contenedor4 {
         display: flex;
-        width: 100%;
+        
         height: 150px;
         margin-top: 1%;
     }
