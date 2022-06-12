@@ -370,9 +370,22 @@ label {
         max-width: 480px;
         width: 100%;
     }
-    .portada.portada2.portada3.portada4.portada5 {
+    .portada {
         height: 250px;   
     }
+    .portada2 {
+        height: 250px;
+    }
+    .portada3 {
+        height: 250px;
+    }
+    .portada4 {
+        height: 250px;
+    }
+    .portada5 {
+        height: 250px;
+    }
+
 
     .portada.portada2.portada3.portada4.portada5 img {
         max-width: 300px;
