@@ -366,6 +366,7 @@ label {
 @media screen and (max-width: 480px) {
     nav ul { display: none; }
     .icon { display: block;  }
+
     section {
         max-width: 480px;
         width: 100%;
@@ -405,9 +406,35 @@ label {
 
 
     .contenedor {
-            display: flex;
-            flex-direction: column; 
+        display: flex;
+        flex-direction: column; 
     }
+
+    .plot {
+        font-size: 14px;
+        max-width: 50%;
+        margin-top: 1px;
+        margin-left: 30%;
+    }
+
+    .item {
+        display: inline-block;
+        text-align: center;
+        margin-bottom: 4%;
+    } 
+
+     .item a img {
+        max-width: 280px;
+     }
+    .png {
+        left: 21px;
+        top: -72px;
+        max-width: 150px;
+    }
+    
+    
+    
+
 
     .enlinea {
         display: block;
