@@ -393,7 +393,8 @@ label {
     }
 
     footer {
-        height: 100px;
+        height: 150px;
+        margin-bottom: none;
     }
     
     footer ul a img {
@@ -401,7 +402,7 @@ label {
         margin-right: 2%;
     }
     footer nav ul li a {
-        font-size: 1rem;
+        font-size: 0.2rem;
         padding-right: 1rem;
         
     }
