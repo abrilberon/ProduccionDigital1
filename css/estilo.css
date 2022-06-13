@@ -178,13 +178,22 @@ section {
 } 
 
 .contenedor2 {
-    width: 100%;
-    height: 500px;
-    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    width: 80%;
+    height: 550px;
+    margin-right: auto;
+    margin-left: auto;
+    align-items: center;
+    justify-content: center;
+    background-image: url("../optimizado/torre-eiffel2.opt.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .contenedor2 div {
-    padding: 0px;
+    padding: 5%;
 }
 
 .contenedor2 img {
@@ -194,10 +203,11 @@ section {
 
 
 .plot2 {
-    width: 70%;
-    text-align: justify;
-    font-size: 17px;
-    margin-bottom: 50px;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    width: 60%;
+    text-align: center;
+    font-size: 18px;
 }
     
 
@@ -368,6 +378,13 @@ label {
     display: none;
 }
 
+
+
+
+
+
+
+
 @media screen and (max-width: 480px) {
     nav ul { display: none; }
     .icon { display: block;  }
@@ -376,7 +393,7 @@ label {
         max-width: 480px;
         width: 100%;
     }
-    
+
     .portada {
         height: 250px;   
     }
@@ -448,17 +465,11 @@ label {
     .contenedor2 {
         width: 100%;
         height: 500px;
-        margin-right: auto;
-        margin-left: auto;
-        align-items: center;
-        justify-content: center;
-        background-image: url("../optimizado/torre-eiffel2.opt.jpg");
-        background-repeat: no-repeat;
-        background-size: cover;
+        margin-top: 30px;
     }
     
     .contenedor2 div {
-        padding: 2%;
+        padding: 0px;
     }
     
     .contenedor2 img {
