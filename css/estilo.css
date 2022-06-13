@@ -103,7 +103,22 @@ nav ul li {
     height: 299px;
     align-items: center;
 }
+.portada6 {
+    background-image: url("../optimizado/emily-y-gabriel.opt.jpg"); 
+    background-repeat: no-repeat; 
+    background-size: cover;
+  
+    height: auto;
+    text-align: center;
 
+    justify-content: center;
+    position: relative;
+    display: flex;
+    width: 100%;
+    height: 299px;
+    align-items: center;
+    
+}
 header ul li a {
     color: white;
     font-size: 1.2rem;
@@ -361,6 +376,7 @@ label {
         max-width: 480px;
         width: 100%;
     }
+    
     .portada {
         height: 250px;   
     }
@@ -376,7 +392,9 @@ label {
     .portada5 {
         height: 250px;
     }
-
+    .portada6 {
+        height: 250px;
+    }
 
     .portada img {
         max-width: 300px;
@@ -391,6 +409,9 @@ label {
         max-width: 300px;
     }
     .portada5 img {
+        max-width: 300px;
+    }
+    .portada6 {
         max-width: 300px;
     }
 
