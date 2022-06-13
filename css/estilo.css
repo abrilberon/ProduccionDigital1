@@ -479,7 +479,7 @@ label {
 
     .plot2 {
         width: 60%;
-        font-size: 17px;
+        font-size: 15px;
         text-align: justify;
     }
     
@@ -533,7 +533,7 @@ label {
 
     footer {
         height: 150px;
-        align-items: none;
+        align-items: normal;
     }
     
     footer ul a img {
