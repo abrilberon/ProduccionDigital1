@@ -367,6 +367,10 @@ footer a:hover {
     margin-bottom: 2em;
 
 }
+
+input {
+    padding: 5px;
+}
 .button2 {
     background-color: #A60D66;
     color: white;
