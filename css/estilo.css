@@ -398,8 +398,26 @@ label {
 
 
 @media screen and (max-width: 480px) {
+   
+   header {
+    flex-wrap: wrap;
+   }
+
     nav ul { display: none; }
     .icon { display: block;  }
+
+    header div, header a {
+    flex: 1 0 50%;
+    }
+
+    header nav {
+    flex-basis: 100%;
+    }
+
+    nav.responsive ul {
+    display: block;
+    width: 100%;
+    }
 
     section {
         max-width: 480px;
