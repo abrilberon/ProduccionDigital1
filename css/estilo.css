@@ -426,7 +426,7 @@ label {
     text-align: justify;
     }
 
-    nav.responsive ul li:hover {
+    .navbar ul li:hover {
         background:#5b78a7;
        }
     
