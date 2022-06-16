@@ -601,10 +601,13 @@ label {
     .button2 {
         padding: 8px 13px;
         font-size: 12px;
-        margin-top: 59px;
+        margin-top: 22px;
     } 
 
-
+    input {
+    margin-bottom: 16px;
+    }
+    
     footer {
         height: 150px;
         align-items: normal;
