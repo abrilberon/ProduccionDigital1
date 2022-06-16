@@ -408,9 +408,9 @@ label {
         color: white;
     }
 
-   header {
+    header {
     flex-wrap: wrap;
-   }
+    }
 
     nav ul { display: none; }
     .icon { display: block;  }
@@ -436,10 +436,6 @@ label {
         margin-left: -15px;
     }
     
-    header a:hover {
-        color: black;
-    }
-
     .navbar {
         padding: 0.5rem;
         text-align: left;
@@ -451,44 +447,13 @@ label {
         width: 100%;
     }
 
-    .portada {
-        height: 250px;   
+    .height {
+    height: 250px;
     }
-    .portada2 {
-        height: 250px;
+    
+    .max-width {
+    max-width: 300px;
     }
-    .portada3 {
-        height: 250px;
-    }
-    .portada4 {
-        height: 250px;
-    }
-    .portada5 {
-        height: 250px;
-    }
-    .portada6 {
-        height: 250px;
-    }
-
-    .portada img {
-        max-width: 300px;
-    }
-    .portada2 img {
-        max-width: 300px;
-    }
-    .portada3 img {
-        max-width: 300px;
-    }
-    .portada4 img {
-        max-width: 300px;
-    }
-    .portada5 img {
-        max-width: 300px;
-    }
-    .portada6 img {
-        max-width: 300px;
-    }
-
 
     .contenedor {
         display: flex;
@@ -635,7 +600,7 @@ label {
         padding-inline-start: 10px;
     }
 
-    .letra2 {
+    nav ul .letra2 {
         display: block;
     }
 }
