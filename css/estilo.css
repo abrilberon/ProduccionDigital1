@@ -403,10 +403,6 @@ label {
         content: "\f0c9";
         color: white;
     }
-    .fa-navicon:before, .fa-reorder:before, .fa-bars:before:hover {
-        content: "\f0c9";
-        color: black;
-    }
 
    header {
     flex-wrap: wrap;
@@ -436,7 +432,7 @@ label {
         margin-left: -15px;
     }
     
-    header ul li a:hover {
+    header a:hover {
         color: black;
     }
 
