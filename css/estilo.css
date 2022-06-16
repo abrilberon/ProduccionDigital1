@@ -441,7 +441,9 @@ label {
         text-align: left;
     }
 
-
+.icon:hover {
+    color: black;
+}
 
 
     section {
