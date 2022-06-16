@@ -415,8 +415,10 @@ label {
     }
 
     nav.responsive ul {
-    display: block;
+    display: flex;
+    flex-direction: column;
     width: 100%;
+    text-align: justify;
     }
 
     section {
