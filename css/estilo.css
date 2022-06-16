@@ -205,9 +205,9 @@ section {
 .plot2 {
     color: white;
     font-family: 'Poppins', sans-serif;
-    width: 60%;
-    text-align: center;
-    font-size: 18px;
+    width: 51%;
+    font-size: 19px;
+    text-align: justify;
 }
     
 
@@ -371,6 +371,7 @@ footer a:hover {
 input {
     padding: 5px;
 }
+
 .button2 {
     background-color: #A60D66;
     color: white;
