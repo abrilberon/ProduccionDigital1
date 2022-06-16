@@ -411,7 +411,7 @@ label {
     nav ul { display: none; }
     .icon { display: block;  }
 
-    header div, header a {
+    header a {
     flex: 1 0 50%;
     }
 
@@ -442,7 +442,7 @@ label {
 
 
 
-    
+
     section {
         max-width: 480px;
         width: 100%;
