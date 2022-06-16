@@ -435,6 +435,9 @@ label {
         color:#F5E1CE;
     }
 
+    .navbar {
+        padding: 0.5rem;
+    }
     section {
         max-width: 480px;
         width: 100%;
