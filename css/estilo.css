@@ -441,9 +441,6 @@ label {
         text-align: left;
     }
 
-    .fa-bars:before:hover {
-        color: black;
-    }
 
     section {
         max-width: 480px;
