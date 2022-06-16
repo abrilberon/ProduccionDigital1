@@ -634,6 +634,10 @@ label {
     footer ul {
         padding-inline-start: 10px;
     }
+
+    .letra2 {
+        display: block;
+    }
 }
 
 
