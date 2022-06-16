@@ -351,6 +351,9 @@ footer a:hover {
 .contenedor5 div {
     width: 50%;
 }
+.contenedor5 div form {
+    text-align: right;
+}
 
 .contenedor5 div img {
     width: 50%;
