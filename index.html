@@ -14,10 +14,11 @@
         <div class="portada">
             <img src="optimizado/titulogrande.png" alt="titulo">
         </div>
-    
-        <nav class="navbar">
-            <a href="javascript:void(0);" class="icon" onclick="myFunction()"><i class="fa fa-bars"></i></a>
-         <ul>
+
+        <a href="javascript:void(0);" class="icon" onclick="myFunction()"><i class="fa fa-bars"></i></a>
+        
+        <nav class="navbar" id="navegador">
+        <ul>
             <li><a href="index.html">Inicio</a></li>
             <li><a href="personajes.html">personajes</a></li>
             <li><a href="galeria.html">galeria</a></li>
@@ -77,4 +78,16 @@
         </nav>
     </footer>
 </body>
+
+<script type="text/javascript">
+    function myFunction(){
+        let x = document.getElementById("navegador");
+        if (x.className == "responsive") {
+            x.className = "navbar responsive";
+        } else {
+            x.className = "navbar";
+        }
+    }
+</script>
+
 </html>
