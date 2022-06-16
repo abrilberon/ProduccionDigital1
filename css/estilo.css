@@ -600,8 +600,8 @@ label {
         padding-inline-start: 10px;
     }
 
-    nav ul .letra2 {
-        display: block;
+    .letra2 ul {
+        display: inline-block;
     }
 }
 
