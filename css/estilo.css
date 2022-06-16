@@ -398,7 +398,12 @@ label {
 
 
 @media screen and (max-width: 480px) {
-   
+
+    .fa-navicon:before, .fa-reorder:before, .fa-bars:before {
+        content: "\f0c9";
+        color: white;
+    }
+
    header {
     flex-wrap: wrap;
    }
@@ -419,6 +424,14 @@ label {
     flex-direction: column;
     width: 100%;
     text-align: justify;
+    }
+
+    .navbar {
+        padding: .5rem 1rem;
+        background-color: #A60D66;
+        text-align: center;
+        font-family: 'Martel', serif;
+        text-transform: uppercase;
     }
 
     section {
