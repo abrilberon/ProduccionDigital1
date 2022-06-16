@@ -426,11 +426,6 @@ label {
     text-align: justify;
     }
 
-    .navbar ul li:hover {
-        background:#5b78a7;
-       }
-    
-
     header ul li a {
         color:white;
         font-size: 1rem;
