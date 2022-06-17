@@ -436,9 +436,10 @@ label {
         margin-left: -15px;
     }
     
-    .portada {
+    /*.portada {
         height: 250px;
-    }
+    }*/
+    
     section {
         max-width: 480px;
         width: 100%;
