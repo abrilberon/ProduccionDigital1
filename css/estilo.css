@@ -347,18 +347,14 @@ footer a:hover {
 }
 
 .contenedor5 div form {
-    text-align: right;
+    text-align: left;
+    margin-left: 330px;
 }
 
 .contenedor5 div img {
     width: 50%;
     margin-bottom: 2em;
 
-}
-
-input {
-    padding: 5px;
-    margin-bottom: 26px;
 }
 
 .button2 {
@@ -380,9 +376,18 @@ input {
     color: white;
 }
 
+input {
+    padding: 5px;
+    margin-bottom: 26px;
+    padding-right: 26px;
+}
+
 label {
     font-family: 'Poppins', sans-serif;
-   
+}
+
+textarea {
+    width: 198px;
 }
 
 .icon {
