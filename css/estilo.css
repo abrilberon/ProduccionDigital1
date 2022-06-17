@@ -612,6 +612,9 @@ textarea {
         padding-left:16PX;
     }
     
+    .creditos {
+        font-size: 14px;
+    }
     
     footer p {
       margin: 5px;
