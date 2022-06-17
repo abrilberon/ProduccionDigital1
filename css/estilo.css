@@ -557,7 +557,8 @@ label {
     .contenedor5 div img {
         width: 100%;
         margin-bottom: 2em;
-    
+        margin-left: 2em;
+
     }
     label {
         font-size: 14px;
