@@ -436,10 +436,7 @@ label {
         margin-left: -15px;
     }
     
-    /*.portada {
-        height: 250px;
-    }*/
-    
+
     section {
         max-width: 480px;
         width: 100%;
@@ -576,6 +573,7 @@ label {
 
     input {
         margin-bottom: 16px;
+        padding-right: 26px;
     }
     
     footer {
