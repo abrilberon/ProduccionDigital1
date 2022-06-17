@@ -418,7 +418,7 @@ label {
 
     .icon { 
         display: block; 
- 
+        text-align: left;
     }
 
     header a {
