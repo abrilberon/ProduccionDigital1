@@ -565,6 +565,10 @@ label {
         font-size: 14px;
     }
     
+    textarea {
+        margin: 34px;
+    }
+
     .button2 {
         padding: 8px 13px;
         font-size: 12px;
