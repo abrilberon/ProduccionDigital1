@@ -406,6 +406,7 @@ label {
     .fa-navicon:before, .fa-reorder:before, .fa-bars:before {
         content: "\f0c9";
         color: white;
+        margin-left: 18px;
     }
 
     header {
@@ -419,6 +420,7 @@ label {
     .icon { 
         display: block; 
         float: left
+ 
     }
 
     header a {
@@ -443,8 +445,7 @@ label {
     }
     
     .navbar {
-        padding: 0.5rem;
-        text-align: left;
+        height: 28px;
     }
 
 
