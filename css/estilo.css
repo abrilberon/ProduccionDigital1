@@ -584,10 +584,14 @@ label {
        
     }
     footer nav ul li a {
-        font-size: 0.2rem;
-        padding-right: 1rem;
-        
+        font-size: 0.7rem;
+        padding-right: 1rem;              
     }
+
+    body > footer > nav > ul{
+        padding-left:16PX;
+    }
+    
     footer p {
       margin: 10px;
     }
