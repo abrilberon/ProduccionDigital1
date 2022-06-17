@@ -406,7 +406,6 @@ label {
     .fa-navicon:before, .fa-reorder:before, .fa-bars:before {
         content: "\f0c9";
         color: white;
-        margin-left: 18px;
     }
 
     header {
@@ -419,7 +418,6 @@ label {
 
     .icon { 
         display: block; 
-        float: left
  
     }
 
@@ -436,7 +434,6 @@ label {
     flex-direction: column;
     width: 100%;
     text-align: justify;
-    height: 45px;
     }
 
     header ul li a {
@@ -445,10 +442,6 @@ label {
         margin-left: -15px;
     }
     
-    .navbar {
-        height: 28px;
-    }
-
 
     section {
         max-width: 480px;
