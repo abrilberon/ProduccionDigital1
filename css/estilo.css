@@ -436,6 +436,10 @@ textarea {
         text-align: justify;
     }
 
+    #navegador ul li {
+        margin: 6px;
+    }
+
     header ul li a {
         font-size: 1rem;
         margin-left: -15px;
@@ -595,12 +599,13 @@ textarea {
     
     footer ul a img {
         max-width: 1rem;
-        margin-right: 2%;
+        margin: 3px;
        
     }
+
     footer nav ul li a {
         font-size: 0.6rem;
-        padding-right: 1rem;              
+        padding: 0.3rem;              
     }
 
     body footer nav ul {
@@ -621,12 +626,7 @@ textarea {
     body footer ul {
         margin: 10PX;
     }
-
-    /*espaciado entre los items del menu*/
-    #navegador > ul > li{
-        margin: 6px;
-    }
-
+   
 }
 
 
