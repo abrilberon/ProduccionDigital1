@@ -436,6 +436,7 @@ label {
     flex-direction: column;
     width: 100%;
     text-align: justify;
+    height: 45px;
     }
 
     header ul li a {
