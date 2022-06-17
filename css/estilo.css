@@ -345,6 +345,7 @@ footer a:hover {
 .contenedor5 div {
     width: 50%;
 }
+
 .contenedor5 div form {
     text-align: right;
 }
@@ -555,8 +556,11 @@ label {
     .contenedor5 div img {
         width: 100%;
         margin-bottom: 2em;
+    }
     
-
+    .contenedor5 div form {
+        text-align: left;
+        margin-left: 5px;
     }
 
     label {
