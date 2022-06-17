@@ -267,7 +267,7 @@ footer ul a img {
     max-width: 2rem;
     width: 100%;
     height: auto;
-    margin-right: 7px;
+    margin: 4px;
 }
 
 footer nav ul li a {
@@ -277,7 +277,7 @@ footer nav ul li a {
     
 }
 
-body > footer > ul{
+body footer ul {
     padding: 0%;
 }
 
