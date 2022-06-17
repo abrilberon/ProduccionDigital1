@@ -379,7 +379,7 @@ footer a:hover {
 input {
     padding: 5px;
     margin-bottom: 26px;
-    padding-right: 26px;
+    width: 219px;
 }
 
 label {
@@ -387,7 +387,7 @@ label {
 }
 
 textarea {
-    width: 198px;
+    width: 225px;
 }
 
 .icon {
