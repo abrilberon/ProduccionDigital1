@@ -441,18 +441,20 @@ label {
         margin-left: -15px;
     }
     
-
+    .portada {
+        height: 250px;
+    }
     section {
         max-width: 480px;
         width: 100%;
     }
 
     .height {
-    height: 250px;
+        height: 250px;
     }
     
     .max-width {
-    max-width: 300px;
+        max-width: 300px;
     }
 
     .contenedor {
