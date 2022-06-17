@@ -593,17 +593,20 @@ label {
         padding-left:16PX;
     }
     
+    
     footer p {
-      margin: 10px;
+      margin: 5px;
     }
 
 
     .letra2 ul {
         display: inline-block;
-        font-size: 15px;
+        font-size: 5px;
     }
 
-  
+    body > footer > ul{
+        margin: 10PX;
+    }
 
 
 }
