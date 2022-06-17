@@ -416,18 +416,18 @@ label {
     }
 
     header a {
-    flex: 1 0 50%;
+        flex: 1 0 50%;
     }
 
     header nav {
-    flex-basis: 100%;
+        flex-basis: 100%;
     }
 
     nav.responsive ul {
-    display: flex;
-    flex-direction: column;
-    width: 100%;
-    text-align: justify;
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        text-align: justify;
     }
 
     header ul li a {
@@ -589,7 +589,7 @@ label {
         padding-right: 1rem;              
     }
 
-    body > footer > nav > ul{
+    body footer nav ul {
         padding-left:16PX;
     }
     
@@ -604,7 +604,7 @@ label {
         font-size: 5px;
     }
 
-    body > footer > ul{
+    body footer ul {
         margin: 10PX;
     }
 
