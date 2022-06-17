@@ -412,8 +412,14 @@ label {
     flex-wrap: wrap;
     }
 
-    nav ul { display: none; }
-    .icon { display: block;  }
+    nav ul {
+        display: none;
+    }
+
+    .icon { 
+        display: block; 
+        float: left
+    }
 
     header a {
     flex: 1 0 50%;
