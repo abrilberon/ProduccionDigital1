@@ -608,6 +608,10 @@ label {
         margin: 10PX;
     }
 
+    /*espaciado entre los items del menu*/
+    #navegador > ul > li{
+        margin: 6px;
+    }
 
 }
 
