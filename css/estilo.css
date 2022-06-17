@@ -579,14 +579,14 @@ textarea {
     .button2 {
         padding: 8px 13px;
         font-size: 12px;
-        margin-top: 22px;
+        margin-top: 26px;
     } 
 
     input {
-        margin-bottom: 16px;
-        padding-right: 26px;
-        width: 170px;
+        width: 190px;
     }
+        
+    
     
     footer {
         height: 150px;
