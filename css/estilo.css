@@ -585,6 +585,7 @@ textarea {
     input {
         margin-bottom: 16px;
         padding-right: 26px;
+        width: 170px;
     }
     
     footer {
