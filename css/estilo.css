@@ -39,6 +39,10 @@ nav ul li {
     
 }
 
+#posicion {
+    margin-top: -247px;
+}
+
 .portada2 {
     background-image: url("../optimizado/lucyjulien.opt.jpg"); 
     background-repeat: no-repeat; 
