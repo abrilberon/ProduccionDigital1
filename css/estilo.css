@@ -500,10 +500,12 @@ textarea {
         margin-left: 3px;
     } 
 
-    .item a img {
-        max-width: 100px;
+    .imgtrailer {
+        max-width: 288px;
+        margin-left: 65px;
+        margin-right: 71px;
     }
-
+    
     .png {
         left: 21px;
         top: -72px;
