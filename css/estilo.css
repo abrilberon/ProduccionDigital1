@@ -425,9 +425,6 @@ textarea {
 
 
 
-
-
-
 @media screen and (max-width: 480px) {
 
     .fa-navicon:before, .fa-reorder:before, .fa-bars:before {
@@ -487,8 +484,9 @@ textarea {
     }
 
     #posicion {
-        margin-top: -130px;
+        margin-top: -162px;
     }
+
     .contenedor {
         display: flex;
         flex-direction: column; 
