@@ -502,9 +502,8 @@ textarea {
 
     .imgtrailer {
         max-width: 288px;
-        /*margin-left: 60px;
-        margin-right: 60fpx;*/
-        text-align: center;
+        margin-left: 60px;
+        margin-right: 60fpx;
     }
     
     .png {
@@ -663,6 +662,7 @@ textarea {
     body footer ul {
         margin: 9px;
     }
+
    
 }
 
