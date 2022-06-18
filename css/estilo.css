@@ -500,9 +500,10 @@ textarea {
         margin-left: 3px;
     } 
 
-     .item a img {
-        max-width: 280px;
-     }
+    .item a img {
+        max-width: 200px;
+    }
+
     .png {
         left: 21px;
         top: -72px;
