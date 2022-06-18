@@ -161,6 +161,7 @@ section {
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
     left: -246px;
     top: -116px;
+    position: relative;
 }
 
 .button3:hover {
@@ -170,7 +171,7 @@ section {
 
 .plot {
     color: black;
-    font-size: 16px;
+    font-size: 18px;
     font-family: 'Poppins', sans-serif;
     display: inline-block;
     width: 30%;
@@ -178,7 +179,7 @@ section {
     margin-top: 4%;
     margin-right: 4%;
     margin-bottom: 4%;
-    margin-left: 0%;
+    margin-left: 86px;
     text-align: justify;
 }
 
