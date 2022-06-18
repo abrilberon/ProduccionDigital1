@@ -503,7 +503,7 @@ textarea {
     .imgtrailer {
         max-width: 288px;
         margin-left: 60px;
-        margin-right: 60fpx;
+        margin-right: 60px;
     }
     
     .png {
@@ -516,7 +516,8 @@ textarea {
     .button3 {
         padding: 12px 19px;
         top: -122px;
-        text-align: center;
+        left: 0px;
+        
     }
 
     
