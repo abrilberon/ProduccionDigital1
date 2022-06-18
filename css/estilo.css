@@ -99,7 +99,7 @@ nav ul li {
     align-items: center;
 }
 .portada6 {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../optimizado/contactoft.jpg"); 
+    background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url("../optimizado/contactoft.jpg"); 
     background-repeat: no-repeat; 
     background-size: cover;
   
