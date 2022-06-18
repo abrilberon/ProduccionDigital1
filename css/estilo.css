@@ -486,6 +486,9 @@ textarea {
         max-width: 300px;
     }
 
+    #posicion {
+        margin-top: 45px;
+    }
     .contenedor {
         display: flex;
         flex-direction: column; 
