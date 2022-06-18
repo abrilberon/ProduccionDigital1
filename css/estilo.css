@@ -152,14 +152,14 @@ section {
 .button3 {
     background-color: #A60D66;
     color: white;
-    padding: 15px 32px;
+    padding: 15px 24px;
     text-decoration: none;
     display: inline-block;
     font-family: 'Poppins', sans-serif;
     font-size: 12px;
     border-radius: 12px;
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
-    left: -246px;
+    left: -231px;
     top: -116px;
     position: relative;
 }
