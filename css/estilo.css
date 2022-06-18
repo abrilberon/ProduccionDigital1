@@ -201,7 +201,7 @@ section {
     margin-left: auto;
     align-items: center;
     justify-content: center;
-    background-image: url("../optimizado/torre-eiffel2.opt.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../optimizado/torre-eiffel2.opt.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
