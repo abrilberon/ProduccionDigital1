@@ -598,9 +598,9 @@ textarea {
     .contenedor5 {
         display: block;
     }
-    
+
     .contenedor5 div {
-        width: 50%;
+        width: 100%;
         /*padding: 2%;
         padding-top: 32px;
         padding-bottom: 25px;*/
