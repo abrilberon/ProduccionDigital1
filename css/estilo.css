@@ -595,6 +595,10 @@ textarea {
         max-width: 35%;
     }
 
+    .contenedor5 {
+        display: block;
+    }
+    
     .contenedor5 div {
         width: 50%;
         /*padding: 2%;
@@ -603,7 +607,7 @@ textarea {
         justify-content: center;
         text-align: center;
         align-items: center;
-        display: block;
+        
     }
     
     .contenedor5 div img {
