@@ -618,6 +618,7 @@ textarea {
     .contenedor5 div form {
         text-align: left;
         margin-left: 5px;
+        width: 100%;
     }
 
     label {
