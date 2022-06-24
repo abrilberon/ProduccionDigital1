@@ -595,20 +595,13 @@ textarea {
         max-width: 35%;
     }
 
-    .contenedor5 {
-        display: block;
-        width: 100%;
-    }
 
     .contenedor5 div {
-        /*width: 100%;
+        width: 50%;
         padding: 2%;
+        width: 100%;
         padding-top: 32px;
         padding-bottom: 25px;
-        justify-content: center;
-        text-align: center;
-        align-items: center;
-        margin: 25%;*/
     }
     
     .contenedor5 div img {
@@ -619,7 +612,7 @@ textarea {
     .contenedor5 div form {
         text-align: left;
         margin-left: 5px;
-        width: 100%;
+        
     }
 
     label {
