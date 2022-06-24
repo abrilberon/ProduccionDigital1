@@ -1,6 +1,6 @@
 estilo.css
 
-* { margin:0; padding: 0; box-sizing: border-box;}
+* { margin:0; padding: 0; /*box-sizing: border-box;*/}
 
 body {
     background-color: #F5E1CE;
@@ -638,7 +638,7 @@ textarea {
     }
     
     footer ul a img {
-        max-width: 1rem;
+        max-width: 1.5rem;
         margin: 3px;
        
     }
