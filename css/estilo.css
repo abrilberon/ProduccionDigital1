@@ -662,9 +662,9 @@ textarea {
     }
 
 
-    .letra2 ul {
-        display: inline-block;
-        font-size: 5px;
+    .letra2 {
+        display: none;
+        
     }
 
     body footer ul {
