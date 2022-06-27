@@ -597,11 +597,11 @@ textarea {
 
 
     .contenedor5 div {
-        width: 50%;
+        width: 60%;
         padding: 2%;
-        width: 100%;
         padding-top: 32px;
         padding-bottom: 25px;
+        margin-inline: auto;
     }
     
     .contenedor5 div img {
