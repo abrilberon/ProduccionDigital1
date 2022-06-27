@@ -595,6 +595,11 @@ textarea {
         max-width: 35%;
     }
 
+    .contenedor5 {
+        margin-top: 5%;
+        display: block;
+        text-align: left;
+    }
 
     .contenedor5 div {
         width: 60%;
