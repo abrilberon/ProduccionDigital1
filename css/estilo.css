@@ -625,17 +625,19 @@ textarea {
     }
     
     textarea {
-        width: 276px;
+        width: 282px;
     }
 
     .button2 {
-        padding: 8px 13px;
+        padding: 9px 15px;
         font-size: 12px;
-        margin-top: 16px;
+        margin-top: 20px;
+        display: flex;
+        margin-inline: auto;
     } 
 
     input {
-        width: 268px;
+        width: 274px;
         margin-bottom: 16px;
     }
         
