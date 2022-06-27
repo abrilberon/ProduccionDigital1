@@ -616,7 +616,7 @@ textarea {
 
     .contenedor5 div form {
         text-align: left;
-        margin-left: 5px;
+        margin: 0px;
         
     }
 
@@ -625,7 +625,7 @@ textarea {
     }
     
     textarea {
-        width: 198px;
+        width: 276px;
     }
 
     .button2 {
@@ -635,7 +635,7 @@ textarea {
     } 
 
     input {
-        width: 190px;
+        width: 268px;
         margin-bottom: 16px;
     }
         
